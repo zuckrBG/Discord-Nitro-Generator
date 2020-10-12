@@ -1,8 +1,8 @@
 # Discord Nitro Generator
-Generates discord nitro codes.
+The Best Discord Nitro Generator that generates discord nitro codes.
 
 ## Information
-Simple program to generate a chosen amount of nitro codes and saves them to a text file.
+Very good program to generate a chosen amount of nitro codes and saves them to a text file.
 
 ## Usage
 1. Input an amount of codes to generate.
